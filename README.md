@@ -98,3 +98,6 @@ void drawBigFont( char *text, uint8_t x, uint16_t y ) {
 }
 ```
 Please note that I need a 'case block' for each character and it move the start X-point for next and so on.
+
+## The result
+![result](https://github.com/katurov/RoomWeatherScreen/blob/main/Media/big.png)
