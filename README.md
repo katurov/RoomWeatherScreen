@@ -1,5 +1,5 @@
 # RoomWeatherScreen
-ESP8266 and QVGA 2.2" SPI screen to show room air condition and street weather
+ESP8266 and QVGA 2.2" [SPI screen](https://learn.adafruit.com/1-8-tft-display/breakout-pinouts) to show room air condition and street weather
 
 ## Why
 
